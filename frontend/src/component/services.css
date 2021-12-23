@@ -1,0 +1,45 @@
+.row{
+    margin-top: 35%;
+  }
+
+
+.col-sm-3{ 
+   
+    margin: 3%;
+    background-color: #3b5764;
+    border: 10px solid #3b5764;
+    border-radius: 5px;
+  
+}
+
+.card-block{
+  margin-top: 5%;
+}
+
+  .card-img-top{
+    height: 200px;
+    width: 60%;
+    
+  }
+
+
+  .card-title{
+      text-align: center;
+      font-weight: 700;
+      padding: auto;
+      height: 50px;
+      width: 300px;
+      margin-left: 30px;
+    
+      
+     
+  }
+
+  .btn-card{
+      margin-top: 20%;
+      margin-left: 30%;
+      margin-bottom: 10%;
+      background-color: #39758f;
+      border: 2px solid #39758f;
+      border-radius: 8px;
+  }
